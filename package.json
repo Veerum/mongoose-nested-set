@@ -10,7 +10,7 @@
     "nested-set",
     "nested set pattern"
   ],
-  "version": "0.0.9",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/groupdock/mongoose-nested-set.git"
